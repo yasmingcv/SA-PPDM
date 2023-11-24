@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524438145164",
+    "project_id": "projeto-ppdm",
+    "storage_bucket": "projeto-ppdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524438145164:android:cea937de7ee72d2da893a9",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.loginppdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZGfbkdKGTdRC4m939L2lbVp646vqF0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
